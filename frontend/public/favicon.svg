@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Dark Rounded Background -->
+  <rect width="32" height="32" rx="8" fill="#09090b"/>
+  <!-- Subtle border -->
+  <rect width="32" height="32" rx="8" fill="none" stroke="#27272a" stroke-width="1.5"/>
+  
+  <!-- Neon Lime S/V Monogram -->
+  <path d="M9 11C9 9.89543 9.89543 9 11 9H15C16.1046 9 17 9.89543 17 11V13C17 14.1046 16.1046 15 15 15H11C9.89543 15 9 15.8954 9 17V21C9 22.1046 9.89543 23 11 23H17" fill="none" stroke="#a3e635" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <path d="M19 13L22.5 21L26 13" fill="none" stroke="#a3e635" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
